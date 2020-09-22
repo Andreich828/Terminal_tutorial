@@ -1,0 +1,6 @@
+!pwd
+!ls
+!mkdir New_Data
+!touch New_Data/New_File
+! ls -l New_Data
+!echo "#!/bin/bash" > New_Data/New_File
